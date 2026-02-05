@@ -25,8 +25,14 @@ I am an aspiring **IT Support Specialist** with a background in **graphics and c
 Configured and customized an open-source ticketing system for IT support ticket management and workflow simulation.
 
 ### 🧑‍💻 Active Directory Lab
-Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using Hyper-V.
-
+Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using VMware.
+- Set-up VMware workstation  
+- Office 365 / Microsoft 365  
+- Active Directory  
+- Networking Basics  
+- Virtualization (VMs)  
+- Hardware Troubleshooting
+ 
 ### 🌐 Network Troubleshooting Simulation
 Practiced diagnosing network connectivity and IP configuration issues using command-line tools and packet analysis.
 
