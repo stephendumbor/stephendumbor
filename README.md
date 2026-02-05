@@ -28,7 +28,7 @@ Configured and customized an open-source ticketing system for IT support ticket 
 Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using VMware.
 - [Set-up VMware Workstation machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Windows Server Installation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Domain Controller Set-up/Promotion](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
  
