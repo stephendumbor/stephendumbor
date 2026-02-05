@@ -26,12 +26,11 @@ Configured and customized an open-source ticketing system for IT support ticket 
 
 ### 🧑‍💻 Active Directory Lab
 Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using VMware.
-- Set-up VMware workstation  
-- Office 365 / Microsoft 365  
-- Active Directory  
-- Networking Basics  
-- Virtualization (VMs)  
-- Hardware Troubleshooting
+- [Set-up VMware Workstation machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Windows Server Installation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
  
 ### 🌐 Network Troubleshooting Simulation
 Practiced diagnosing network connectivity and IP configuration issues using command-line tools and packet analysis.
