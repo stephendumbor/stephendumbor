@@ -60,9 +60,12 @@ This portfolio is built using responsive HTML and CSS. You can view it locally o
 
 ---
 
+<div align="center">
+
 ### 📝 License
 © 2025 Stephen Dumbor. All rights reserved.
+</div>
 
----
 
-> *This README represents a simple, professional GitHub portfolio structure for an IT Support Specialist transitioning from design to tech.*
+
+
