@@ -21,8 +21,8 @@ I am an aspiring **IT Support Specialist** with a background in **graphics and c
 
 ## 🧩 Projects & Labs
 
-### 🧾 osTicket Helpdesk Setup
-Configured and customized an open-source ticketing system for IT support ticket management and workflow simulation.
+### 🧾 Jira Service Management (Ticket System)
+Configured and customized Jira service Management ticketing system for IT support ticket management and workflow simulation.
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
