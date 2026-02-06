@@ -32,7 +32,7 @@ Configured and customized an open-source ticketing system for IT support ticket 
 Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using VMware.
 - [Set Up Virtual Machine On VMware](https://github.com/stephendumbor/Set-up-VMware-workstation-Machine)
 - [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation)
-- [Active Directory Installation](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Active Directory Installation](https://github.com/stephendumbor/Active-Directory-Installation)
 - [Domain Controller Set-up/Promotion](https://github.com/stephendumbor/Domain-Controller-Set-up-Promotion)
 - [Domain Redundancy (Backup Domain Controller)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Active Directory OU and User-cycle](https://www.youtube.com/watch?v=E2MwRWxDBkA)
