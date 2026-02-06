@@ -1,4 +1,4 @@
-# 💻 Stephen Dumbor | IT Support Portfolio
+# I'm Stephen Dumbor | IT Support Specialist 
 
 Combining design creativity with technical problem-solving.
 
@@ -53,10 +53,13 @@ This portfolio is built using responsive HTML and CSS. You can view it locally o
 
 ---
 
+<div align="center">
+ 
 ## 📬 Contact
 **Email:** [stevedumbor](mailto:stevedumbor@gmail.com)  
 **GitHub:** [stephendumbor](https://github.com/stephendumbor)  
 **LinkedIn:** [stephendumbor](https://linkedin.com/in/stephendumbor)
+</div>
 
 ---
 
