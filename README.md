@@ -63,7 +63,7 @@ This portfolio is built using responsive HTML and CSS. You can view it locally o
 <div align="center">
 
 ### 📝 License
-© 2025 Stephen Dumbor. All rights reserved.
+© 2026 Stephen Dumbor. All rights reserved.
 </div>
 
 
