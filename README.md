@@ -24,8 +24,8 @@ I am an aspiring **IT Support Specialist** with a background in **graphics and c
 ### 🧾 Jira Service Management (Ticket System)
 Configured and customized Jira service Management ticketing system for IT support ticket management and workflow simulation.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Set Up Stephen IT Support Workspace](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Dispatch and Assign Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
 
 ### 🧑‍💻 Active Directory Lab
