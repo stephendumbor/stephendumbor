@@ -33,7 +33,7 @@ Created a local virtual lab to set up users, groups, and permissions in a Window
 - [Set Up Virtual Machine On VMware](https://github.com/stephendumbor/Set-up-VMware-workstation-Machine)
 - [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation)
 - [Domain Controller Set-up/Promotion](https://github.com/stephendumbor/Domain-Controller-Set-up-Promotion)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Domain Redundancy (Backup Domain Controller)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
  
 ### 🌐 Network Troubleshooting Simulation
