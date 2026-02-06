@@ -5,7 +5,7 @@ Combining design creativity with technical problem-solving.
 ---
 
 ## 🧠 About Me
-I am an aspiring **IT Support Specialist** with a background in **graphics and communication design**. I bring creativity, problem-solving, and a user-focused mindset to every task. Currently transitioning into IT support, I’m passionate about systems management, troubleshooting, and helping users make technology work better for them.
+I am an aspiring **IT Support Specialist** with a background in **graphics and communication design**. I bring creativity, problem-solving, and a user-focused mindset to every task. Currently transitioning into IT support, I’m passionate about systems management, troubleshooting, and helping users make technology work better and secure for them.
 
 ---
 
