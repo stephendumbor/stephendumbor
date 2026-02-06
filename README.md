@@ -35,7 +35,7 @@ Created a local virtual lab to set up users, groups, and permissions in a Window
 - [Active Directory Installation](https://github.com/stephendumbor/Active-Directory-Installation)
 - [Domain Controller Set-up/Promotion](https://github.com/stephendumbor/Domain-Controller-Set-up-Promotion)
 - [Domain Redundancy (Backup Domain Controller)](https://github.com/stephendumbor/Domain-Redundancy-(Backup-Domain-Controller))
-- [Active Directory OU and User-cycle](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Active Directory OU and User-cycle](https://www)
  
 ### 🌐 Network Troubleshooting Simulation
 Practiced diagnosing network connectivity and IP configuration issues using command-line tools and packet analysis.
