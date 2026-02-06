@@ -30,7 +30,7 @@ Configured and customized an open-source ticketing system for IT support ticket 
 
 ### 🧑‍💻 Active Directory Lab
 Created a local virtual lab to set up users, groups, and permissions in a Windows Server environment using VMware.
-- [Set-up VMware Workstation machine](https://github.com/stephendumbor/Set-up-VMware-workstation-Machine)
+- [Set Up Virtual Machine On VMware](https://github.com/stephendumbor/Set-up-VMware-workstation-Machine)
 - [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation)
 - [Domain Controller Set-up/Promotion](https://github.com/stephendumbor/Domain-Controller-Set-up-Promotion)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
