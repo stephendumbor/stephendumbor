@@ -24,8 +24,8 @@ I am an aspiring **IT Support Specialist** with a background in **graphics and c
 ### 🧾 Jira Service Management (Ticket System)
 Configured and customized Jira service Management ticketing system for IT support ticket management and workflow simulation.
 
-- [Set Up Stephen IT Support Workspace](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Dispatch and Assign Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Set Up Stephen IT Support Workspace](https://github.com/stephendumbor/Set-Up-Stephen-IT-Support-Workspace)
+- [Dispatch and Assign Ticket](https://github.com/stephendumbor/Dispatch-and-Assign-Ticket)
 
 
 ### 🧑‍💻 Active Directory Lab
@@ -34,7 +34,7 @@ Created a local virtual lab to set up users, groups, and permissions in a Window
 - [Windows Server Installation](https://github.com/stephendumbor/Windows-Server-Installation)
 - [Active Directory Installation](https://github.com/stephendumbor/Active-Directory-Installation)
 - [Domain Controller Set-up/Promotion](https://github.com/stephendumbor/Domain-Controller-Set-up-Promotion)
-- [Domain Redundancy (Backup Domain Controller)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Domain Redundancy (Backup Domain Controller)](https://github.com/stephendumbor/Domain-Redundancy-(Backup-Domain-Controller))
 - [Active Directory OU and User-cycle](https://www.youtube.com/watch?v=E2MwRWxDBkA)
  
 ### 🌐 Network Troubleshooting Simulation
